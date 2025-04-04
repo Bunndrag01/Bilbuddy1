@@ -1,15 +1,19 @@
-# BilBuddy v3
+# BilBuddy v3 – Klar for Vercel
 
-✅ Klar for Vercel  
-✅ Bruk Next.js 14 og Tailwind  
-✅ Registreringsnummer-oppslag (mock)  
-✅ Kostnader, påminnelser og historikk
+✅ Bygget med Next.js 14, Tailwind og TypeScript  
+✅ Ferdig satt opp for Vercel  
+✅ Inkluderer alle nødvendige avhengigheter
 
-## Starte lokalt:
+## Start lokalt
 
+1. Installer avhengigheter:
 ```bash
 npm install
+```
+
+2. Start dev-server:
+```bash
 npm run dev
 ```
 
-👉 Gå til http://localhost:3000
+3. Åpne `http://localhost:3000`
